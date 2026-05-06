@@ -1,4 +1,4 @@
-# 🚀 Cpp-Problem-Solving-Level-2 (Advanced Foundations) 🛠️
+# 🚀 Cpp-Problem-Solving-Level-2
 
 A collection of **43 unique and challenging C++ programming problems**, each solved from scratch and housed in its own dedicated folder. This repository marks my progression into more advanced and complex concepts in C++.
 
